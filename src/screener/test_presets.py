@@ -3,9 +3,8 @@ Sprint 3 - Day 16
 Preset Screener Testing
 """
 
-from engine import load_financial_data
-from presets import run_all_presets
-
+from src.screener.engine import load_financial_data
+from src.screener.presets import run_all_presets
 
 df = load_financial_data()
 
