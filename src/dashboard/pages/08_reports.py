@@ -211,7 +211,6 @@ else:
     st.warning("Low return on equity")
 
 
-
 st.subheader("📋 Historical Financial Data")
 
 
